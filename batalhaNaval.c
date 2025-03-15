@@ -4,6 +4,7 @@
 
 
     int main(){
+    printf("novo commit\n");
 
     char letras[10] = {'A','B','C','D','E','F','G','H','I','J'};  //declaração das variaveis
 
